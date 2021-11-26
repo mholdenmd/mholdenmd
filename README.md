@@ -1,13 +1,13 @@
 ### Hi there its me mholdenmd 👋
 
-🔭 I'm a passonate JavaScipt react frontend delevoper.<br>
+🔭 I'm a passonate JavaScipt react full stack delevoper.<br>
 🌱 My favorite languauges are Python, Javascript, and Java.<br>
 🤔 My overall goal is to be the best me that I can be.<br>
 ⚡ Fun fact: I really love football, basketball, working out, tech, and cooking.<br>
 📫 How to reach me: <a href="mholdenmd@gmail.com">Let's get in touch!</a><br>
 
 
-I'm a passonate software delevoper aiming to be the best at my craft. I know when it comes to web development I can make things looking great. I work great with others on projects. I want to try new things in web development. Currently I'm working on MERN. I already know it but I'm just pushing it the limit. After that MEAN.
+I'm a passonate software delevoper aiming to be the best at my craft. I know when it comes to web development I can make things looking great. I work great with others on projects. I love tech. Going to start 2022 learning UI/UX designing. 
 
 Happy coding!!!
 
