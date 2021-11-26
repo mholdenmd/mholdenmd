@@ -1,6 +1,6 @@
 ### Hi there its me mholdenmd 👋
 
-🔭 I'm a passonate JavaScipt react full stack delevoper.<br>
+🔭 I'm a passonate JavaScipt REACT full stack delevoper.<br>
 🌱 My favorite languauges are Python, Javascript, and Java.<br>
 🤔 My overall goal is to be the best me that I can be.<br>
 ⚡ Fun fact: I really love football, basketball, working out, tech, and cooking.<br>
